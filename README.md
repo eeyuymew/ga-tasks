@@ -11,7 +11,7 @@
 Аналитические заключения по инцидентам.
  - [Отчет по разбору инцидентов (DOCX)](./Task_2_Incidents/Задание%202.docx)
 
-### [Задание 3. Разработка системы симуляции фишинговой кампании](./Task_3_Phishing_Simulator)
+### [Задание 3. Разработка системы симуляции фишинговой кампании](https://github.com/eeyuymew/phish-simulator)
 Мини-проект: демонстрационный стенд для учебных фишинговых рассылок. Должен быть развернут через Docker Compose в один клик (Python Tracker, Nginx, Mail Service, SQLite).
  - [Репозиторий c полностью выполненным заданием](https://github.com/eeyuymew/phish-simulator)
  - [Очет по выполнению задания](https://github.com/eeyuymew/phish-simulator/tree/main/docs)
